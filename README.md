@@ -1,5 +1,8 @@
 # Build a Large Language Model (From Scratch)
 
+# My Learning Progress
+I am tracking my hands-on implementation of the book here. My code, experiments, and custom modules are organized in the ./annie_learning_journey directory.
+
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
 
 <br>
